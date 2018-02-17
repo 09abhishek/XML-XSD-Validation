@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://dev.atechlab.net/Patient"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dev.atechlab.net/Patient Patient.xsd ">
+	
+	<tns:id>1</tns:id>
+	<tns:name>Abhishek</tns:name>
+	<tns:age>24</tns:age>
+	<tns:dob>2001-01-01</tns:dob>
+	<tns:email>abhi_09@live.com</tns:email>
+	<tns:gender>M</tns:gender>
+	<tns:phone>9031203057</tns:phone>
+
+</tns:patient>
